@@ -11,7 +11,7 @@ A Clojure library for sending metrics to Graphite
 Add the following dependency to your `project.clj`:
 
 ``` clj
-[clj-graphite "0.1.0"]
+[clj-graphite "0.1.1"]
 ```
 
 ## Usage

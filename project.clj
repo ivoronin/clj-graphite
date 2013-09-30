@@ -1,4 +1,4 @@
-(defproject clj-graphite "0.1.0"
+(defproject clj-graphite "0.1.1"
   :description "Library for sending metrics to Graphite"
   :url "http://github.com/ivoronin/clj-graphite"
   :license {:name "Eclipse Public License"
